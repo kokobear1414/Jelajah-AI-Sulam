@@ -24,5 +24,6 @@ The website introduces AI applications to 20 students from Maahad Tahfiz Teduhan
 3. **Teachable Machine** – Creating machine-learning models without coding.
 
 ## Live Link: 
-3. Ensure you have an internet connection to load external resources.
+https://kokobear1414.github.io/jelajah-ai-sulam/
+
 
